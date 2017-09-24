@@ -2,6 +2,6 @@
 Python projects 
 
 
-Public folder of my Python projects and clones.
+Public folder of my Python project.
 
 
